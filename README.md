@@ -7,7 +7,9 @@ npm start to open a localhost <3
 
 
 There are some  things enlivened: for example, you can add a new employee (both forms are required, name > 3 symbols, only numbers in 'paycheck'form; 
-tap cookie to give a bonus to the employee chosen, tap trash-ico to delete, tap an employee`s name to give him promotion (a star appears). There are also some filters (please be attentive - the filter where you print names is case sensitive.)
+tap cookie to give a bonus to the employee chosen, tap trash-ico to delete, tap an employee`s name to give him a promotion (a star appears). 
+There are also some filters (please be attentive - the filter where you print names is case sensitive.)
+
 
 Well, i think this short overview is enough, now look at the screens! 
 
